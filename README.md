@@ -1,30 +1,22 @@
 ![SWETAVERSE](https://raw.githubusercontent.com/cuteswetaprasad-gif/cuteswetaprasad-gif/main/assets/swetaverse-hero.png)
 
-<div align="center">
-
 ```text
 ╔══════════════════════════════════════════════════════╗
 ║              SWETAVERSE // SYSTEM ONLINE             ║
 ╠══════════════════════════════════════════════════════╣
 ║                                                      ║
-║   SUBJECT        : SWETA PRASAD                     ║
+║   SUBJECT        : SWETA PRASAD                      ║
 ║   FIELD          : BIOINFORMATICS                    ║
 ║   CORE           : BIOLOGY × COMPUTATION × AI       ║
 ║   CURRENT MODE   : BUILDING                          ║
 ║   SYSTEM STATUS  : ● ONLINE                          ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
-
-
----
+```
 
 ## 🧬 BIOLOGICAL ENGINE
 
-<div align="center">
-
 ### BIOLOGY → COMPUTATION → AI
-
-</div>
 
 My work sits at the intersection of **biological science, computational analysis, and intelligent systems**.
 
@@ -39,7 +31,7 @@ My work sits at the intersection of **biological science, computational analysis
 
 ### ⚙️ CURRENTLY EXPLORING
 
-```text
+<pre>
 [ BIOLOGICAL DATA ]
         ↓
 [ COMPUTATIONAL ANALYSIS ]
@@ -49,3 +41,7 @@ My work sits at the intersection of **biological science, computational analysis
 [ INTELLIGENT SYSTEMS ]
         ↓
 [ BIOLOGICAL INSIGHT ]
+</pre>
+
+
+
