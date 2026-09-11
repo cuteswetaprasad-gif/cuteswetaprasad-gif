@@ -47,5 +47,53 @@ My work sits at the intersection of **biological science, computational analysis
   <img src="https://raw.githubusercontent.com/cuteswetaprasad-gif/cuteswetaprasad-gif/main/assets/swetaverse-biological-engine.gif" width="850">
 </p>
 
+---
+
+## 🧪 EXPERIMENT CHAMBER
+
+> *Where biological questions enter the system... and computational experiments begin.*
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🧬 PROTEIN ENZYME ML
+
+Machine learning meets protein analysis.
+
+**Random Forest • Python • Flask**
+
+[🔬 Explore Repository](https://github.com/cuteswetaprasad-gif/protein-enzyme-ml)
+
+</td>
+
+<td width="33%" align="center">
+
+### 🩸 THE CRIMSON KINGDOM
+
+A dark interactive world built with code.
+
+**HTML • CSS • JavaScript**
+
+[🌑 Enter the Kingdom](https://github.com/cuteswetaprasad-gif/The-Crimson-Kingdom)
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌌 SWETAVERSE LINKS
+
+A central hub connecting biology, AI & data.
+
+**Bioinformatics • AI • Data**
+
+[🌐 Open the Portal](https://github.com/cuteswetaprasad-gif/Swetaverse-links)
+
+</td>
+
+</tr>
+</table>
+
 
 
