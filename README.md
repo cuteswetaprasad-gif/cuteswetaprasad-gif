@@ -53,47 +53,97 @@ My work sits at the intersection of **biological science, computational analysis
 
 > *Where biological questions enter the system... and computational experiments begin.*
 
+<br>
+
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-### 🧬 PROTEIN ENZYME ML
+<h3>🧬 PROTEIN ENZYME ML</h3>
 
-Machine learning meets protein analysis.
+<i>Decoding protein behavior through machine learning.</i>
 
-**Random Forest • Python • Flask**
+<br><br>
 
-[🔬 Explore Repository](https://github.com/cuteswetaprasad-gif/protein-enzyme-ml)
+<code>PYTHON</code>
+<br>
+<code>RANDOM FOREST</code>
+<br>
+<code>FLASK API</code>
 
-</td>
+<br><br>
 
-<td width="33%" align="center">
-
-### 🩸 THE CRIMSON KINGDOM
-
-A dark interactive world built with code.
-
-**HTML • CSS • JavaScript**
-
-[🌑 Enter the Kingdom](https://github.com/cuteswetaprasad-gif/The-Crimson-Kingdom)
+⚗️ <a href="https://github.com/cuteswetaprasad-gif/protein-enzyme-ml">
+<b>ENTER EXPERIMENT →</b>
+</a>
 
 </td>
 
 <td width="33%" align="center">
 
-### 🌌 SWETAVERSE LINKS
+<h3>🩸 THE CRIMSON KINGDOM</h3>
 
-A central hub connecting biology, AI & data.
+<i>A digital realm where code becomes atmosphere.</i>
 
-**Bioinformatics • AI • Data**
+<br><br>
 
-[🌐 Open the Portal](https://github.com/cuteswetaprasad-gif/Swetaverse-links)
+<code>HTML</code>
+<br>
+<code>CSS</code>
+<br>
+<code>JAVASCRIPT</code>
+
+<br><br>
+
+☽ <a href="https://github.com/cuteswetaprasad-gif/The-Crimson-Kingdom">
+<b>ENTER KINGDOM →</b>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>🌌 SWETAVERSE LINKS</h3>
+
+<i>A portal connecting biology, AI and data.</i>
+
+<br><br>
+
+<code>BIOINFORMATICS</code>
+<br>
+<code>AI</code>
+<br>
+<code>DATA</code>
+
+<br><br>
+
+✦ <a href="https://github.com/cuteswetaprasad-gif/Swetaverse-links">
+<b>OPEN PORTAL →</b>
+</a>
 
 </td>
 
 </tr>
 </table>
 
+<br>
 
+<p align="center">
+
+<code>◈ EXPERIMENT STATUS ◈</code>
+
+<br><br>
+
+🟣 <b>BIOLOGICAL DATA</b>
+&nbsp;&nbsp;→&nbsp;&nbsp;
+🔵 <b>COMPUTATIONAL ANALYSIS</b>
+&nbsp;&nbsp;→&nbsp;&nbsp;
+🟣 <b>INTELLIGENT SYSTEMS</b>
+
+<br><br>
+
+<i>Three experiments. One evolving system.</i>
+
+</p>
 
