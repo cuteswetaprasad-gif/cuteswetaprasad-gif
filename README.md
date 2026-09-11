@@ -43,5 +43,9 @@ My work sits at the intersection of **biological science, computational analysis
 [ BIOLOGICAL INSIGHT ]
 </pre>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cuteswetaprasad-gif/cuteswetaprasad-gif/main/assets/swetaverse-biological-engine.gif" width="850">
+</p>
+
 
 
